@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Enrol</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="action_about">acerca de </string>
+    <string name="action_Sichronize">sicronizar</string>
+    <string name="action_delete">eliminar</string>
+    <string name="action_edit">editar</string>
+
+    <string name="message_name">Nombre</string>
+    <string name="message_last_name_f">Apellido Paterno</string>
+    <string name="message_last_name_m">Apellido Materno</string>
+    <string name="btn_msg_save">Guardar</string>
+
+    <string name="action_back">Atras</string>
+
+    <string name="section_tab01">mensajes</string>
+    <string name="section_tab02">log</string>
+    <string name="section_tab03">contactos</string>
+    <string name="section_tab04">Fvorites</string>
+    <string name="action_Tabs">tabs</string>
+
+    <string name="BTN">guardar en contactos</string>
+
+
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_prueva">prueva</string>
+    <string name="title_TapActivity_Main">TapActivityMain</string>
+
+</resources>
